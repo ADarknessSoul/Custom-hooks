@@ -8,7 +8,7 @@ Just clone the repository and add the files to your project in a folder called "
 
 ## Usage
 
-You can import the hooks in your react components and make use of them simply writting:
+You can import the hooks in your react components and make use of them simply writting inside your react component:
 
 ```bash
 import { "the name of the hook" } from "The path of the hook, including the quotes";
